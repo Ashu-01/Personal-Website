@@ -1,14 +1,3 @@
-/***************************************
-========================================
-
-	Author Name   : Themeplaza
-	This is HTML5 template
-	Template Name : Mariya Personal Portfolio Template
-	Version: 1.0
-	
-****************************************
-=======================================/
-
 
 /* ----------------------------------------------------------------
 
@@ -377,7 +366,7 @@ a.back-to-top:focus {
 
 @media only screen and (max-width:768px) {
 	.bg-faded {
-		background: #fff;
+		background-color: transparent;
 		animation: fadeInDown 1s both 0.2s;
 	}
 }
